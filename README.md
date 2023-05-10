@@ -2,3 +2,4 @@
 # Lucas Henrique Furriel da Silva
 ## Pensamento computacional
 -Colégio Paulo Leminski
+- **professora Drielle**-
